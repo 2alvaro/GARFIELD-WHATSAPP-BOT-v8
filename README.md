@@ -1,4 +1,4 @@
-# 𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т LATEST v8.5
+# ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]  𝖡𝖮Т 
 # 🍂 Update Node modules
 <img src="/Cloud/PicsArt_22-04-17_16-25-53-440.png">
 
@@ -76,7 +76,7 @@ You can use it without any hesitation
 <br>
    <br>
    <br>
-   <h1>𝖭Ξ𝖴𝖱Λ𝖫 ΛＩ❇️</h1>
+   <h1>ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] Ｉ❇️</h1>
    <br>
    <center><img src="https://i.ibb.co/TcLVfMZ/Picsart-22-08-22-15-21-41-175.png">
    <br>
@@ -88,7 +88,7 @@ This can be used to make your work easier and even fun. Currently this is v1.0
    <br>
      <br>
      <br>
-     <h1>𝖦Λ𝖱𝖥𝖨Ξ𝖫𝖣 𝖡𝖮Т</h1>
+     <h1>ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]  𝖡𝖮Т</h1>
      <br>
   <center><img src="/Cloud/logo.png">
     <br>
@@ -112,7 +112,7 @@ Be sure to use a (.)dot at the beginning of the command  </b>
       <br>
 ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]🤵🖤
       <br>
-I am 18 years old🖤
+I am 18 years 🖤
       <br>
 𝒇𝒓𝒐𝒐𝒎 𝒎𝒆𝒌𝒏𝒆𝒔
       <br>
@@ -121,7 +121,7 @@ I am 18 years old🖤
 وا صافي وا سيير🤼‍♂️
     </b></b>
 
-   <h1>𝗩8.4 𝗡𝗲𝘄</h1>
+   <h1>ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] </h1>
    <b>This has been updated to the latest 2022 npm module and Latest Whatsapp Button Version. There are 120+ plugins. Deploying is quick and easy. Download speeds and upload speeds are very fast.The speed of response has increased. Fixed some bugs. Updated daily baileys 2022 Updated</b>    
   <br>
    <br>
@@ -138,7 +138,7 @@ Join group <a href="https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D">Join Now</
    
   <br>
     <h1>Developer 🦋</h1>
-    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://wa.me/212777466518"><img src="https://telegra.ph/file/72c85bac1eff4bb63e221.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] </th></tr><tr><td><a href="https://wa.me/212777466518"><img src="https://telegra.ph/file/94ea9f68c9f6e267ef579.jpg" width="180"</td></tr></b>
 
 
 
