@@ -1,5 +1,5 @@
 {
-  "name": " ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] ＷＨＡＴＳＡＰＰ ＢＯＴ ",
+  "name": " ᴀʟᴠᴀʀᴏ 𝒛𝒂𝒌𝒂𝒓𝒊𝒂 ＷＨＡＴＳＡＰＰ ＢＯＴ ",
   "description": "ＦＲＯＭ ᴀʟᴠᴀʀᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ (24×7 𝖡𝖮𝖳,𝖡𝗎𝗍𝗍𝗈𝗇 𝖡𝗈𝗍 🦋)",
   "repository": "https://wa.me/212777466518",
   "logo": "https://telegra.ph/file/8d0559218f6591a16105b.jpg",
@@ -9,13 +9,13 @@
       "url": "heroku/nodejs"
     },
     {
-      "url": "https://wa.me/212777466518"
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     },
     {
-            "url": "https://wa.me/212777466518"
+            "url": "https://github.com/yespark/heroku-imagemagick-buildpack"
         },
     {
-      "url": "https://wa.me/212777466518"
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
     }
   ],
    "formation": {
