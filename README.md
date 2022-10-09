@@ -108,17 +108,17 @@ Use the (.help) command to access the Help menu.
 Use only lowercase letters when applying commands
 Be sure to use a (.)dot at the beginning of the command  </b>
   <h1><b>Developer Notice 💌</h1></b>
-<b> - Hi 🥰 I m
+<b> - Hi 😻
       <br>
-ＮＯＩＺ Ξ
+ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]🤵🖤
       <br>
-I am 16 years old
+I am 18 years old🖤
       <br>
-developer... From Sri Lanka 🇱🇰
+𝒇𝒓𝒐𝒐𝒎 𝒎𝒆𝒌𝒏𝒆𝒔
       <br>
-I am a Learning. Not more..
+ɪ ʟᴏᴠᴇ ʜᴀᴊᴀʀ🏌️‍♂️🖤
       <br>
-Also I am Student 
+وا صافي وا سيير🤼‍♂️
     </b></b>
 
    <h1>𝗩8.4 𝗡𝗲𝘄</h1>
@@ -130,15 +130,15 @@ Also I am Student
   
     
     
-  <h1> Telegram 💡</h1>
-Join our Telegram helping group <a href="https://t.me/xnodesbot">Join Now</a>
-  <h1>Watch Video 📽️</h1>
-     Watch on Youtube <a href="https://youtu.be/OY_75SjPZSQ">Click now</a>
+  <h1> group.whats </h1>
+Join group <a href="https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D">Join Now</a>
+  <h1>بيتي شي حاجة </h1>
+     دوز هنا <a href="https://wa.me/212777466518">Click now</a>
 
    
   <br>
     <h1>Developer 🦋</h1>
-    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://github.com/Zenoixnoize"><img src="https://telegra.ph/file/701702e9a949b18b6c59d.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>Ｚ Ξ ＮＯＩ</th></tr><tr><td><a href="https://wa.me/212777466518"><img src="https://telegra.ph/file/72c85bac1eff4bb63e221.jpg" width="180"</td></tr></b>
 
 
 
