@@ -1,4 +1,4 @@
-// Hi  I m
+// هلو
 // Tharindu Liyanage 
 // I am 16 years old developer...
 // From Sri Lanka
@@ -887,8 +887,8 @@ if (q.includes('--help')) return reply(examkosong)
             room.state = 'PLAYING'
             let arr = room.game.render().map(v => {
             return {
-            X: '❌',
-            O: '⭕',
+            X: '🖤',
+            O: '🤍',
             1: '1️⃣',
             2: '2️⃣',
             3: '3️⃣',
@@ -1300,7 +1300,7 @@ function _0x1b5a(_0x1db68f,_0x1bfd76){const _0x22f904=_0x22f9();return _0x1b5a=f
             let member = participants.map(u => u.id)
             let me = m.sender
             let jodoh = member[Math.floor(Math.random() * member.length)]
-            let jawab = `𝙂𝙤𝙤𝙙 𝙈𝙤𝙧𝙣𝙞𝙣𝙜 🌻`
+            let jawab = `صباحڪم الاعداا۽🌝😻`
             let ments = [me, jodoh]
             let buttons = [
                         { buttonId: `Hello`, buttonText: { displayText: `Good Morning`}, type: 1 }
@@ -1313,7 +1313,7 @@ function _0x1b5a(_0x1db68f,_0x1bfd76){const _0x22f904=_0x22f9();return _0x1b5a=f
             let member = participants.map(u => u.id)
             let me = m.sender
             let jodoh = member[Math.floor(Math.random() * member.length)]
-            let jawab = `𝙂𝙤𝙤𝙙 𝙉𝙞𝙜𝙝𝙩 🌃 `
+            let jawab = `نايطڪم الحاقودين 🌚😻 `
             let ments = [me, jodoh]
             let buttons = [
                         { buttonId: `Hello`, buttonText: { displayText: `Good Night`}, type: 1 }
@@ -2079,13 +2079,13 @@ break
             }
             break
             // Hi  I m
-// ＮＯＩＺ Ξ
-// I am 16 years old developer...
-// From Sri Lanka
-// I am a Learning. 
-// Not more..
-// Also I am Student
-// Follow My Facebook - https://www.facebook.com/zenoixnoize
+// ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂]
+// I am 18 years
+// 𝒇𝒐𝒐𝒐𝒎 𝒎𝒆𝒌𝒏𝒆𝒔 𝒄𝒊𝒕𝒚
+// 
+// 𝒊 𝒍𝒐𝒗𝒆 ʟᴏꜱɪɴᴅᴀ (𝒉𝒂𝒋𝒂𝒓)
+// وا صافي وا سيير
+// دوز لا بغيتي شي حاجة - https://api.whatsapp.com/send?phone=+212777466518
 case 'ytmp41080': {
                 let { tharinduyt } = require('./lib/ytmp4')
                 if (!text) return reply(`Example : ${prefix + command} https://youtube.com/watch?v=PtFMh6Tccag%27 360p`)
