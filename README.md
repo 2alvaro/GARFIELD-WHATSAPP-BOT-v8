@@ -138,7 +138,7 @@ Join group <a href="https://chat.whatsapp.com/CUPejFUJVn5G0eUBO9jd2D">Join Now</
    
   <br>
     <h1>Developer 🦋</h1>
-    <b><table><tr><th>ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] </th></tr><tr><td><a href="https://wa.me/212777466518"><img src="https://telegra.ph/file/94ea9f68c9f6e267ef579.jpg" width="180"</td></tr></b>
+    <b><table><tr><th>ᴀʟᴠᴀʀᴏ[𝒛𝒂𝒌𝒂𝒓𝒊𝒂] </th></tr><tr><td><a href="https://wa.me/212777466518"><img src="https://telegra.ph/file/8d0559218f6591a16105b.jpg" width="180"</td></tr></b>
 
 
 
